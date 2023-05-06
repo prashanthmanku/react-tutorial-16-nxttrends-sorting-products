@@ -1,4 +1,4 @@
-## LIVE DEMO LINK :- <a href='https://pranextsort.ccbp.tech/'>nextTrends Sorting</a>
+## LIVE DEMO LINK :- <a href='https://pranextsort.ccbp.tech/' target='_blank'>nextTrends Sorting</a>
 
 # Sorting Products
 
